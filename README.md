@@ -44,6 +44,8 @@ This project was developed with the following technologies:
 
 We thank the following people who contributed to this project:
 
+- Project developed through the Code Club course
+
 <table>
   <tr>
     <td align="center">
