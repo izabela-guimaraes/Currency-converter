@@ -20,8 +20,6 @@ Currency converter to euro, dollar. project under construction!!
 
 remarks : this project is old , so it is not completely up to date , project made in portuguese
 
-<br>
-
 <h4>To see another project <a href="https://github.com/izabela-guimaraes/PlayStation-Store" 
 target="blank">click here</a></h4>
 
